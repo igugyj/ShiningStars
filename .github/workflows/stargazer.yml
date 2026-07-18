@@ -1,0 +1,17 @@
+name: Stargazer
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+
+jobs:
+  stargazer:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: igugyj/gaze-stars@main
+        with:
+          api-token: ${{ secrets.API_TOKEN }}
+          github-username: ${{ github.repository_owner }}
