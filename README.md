@@ -63,7 +63,7 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | TypeScript | 35.5k | 2026-07-18 |
+| [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Network-wide ads & trackers blocking DNS server | TypeScript | 35.5k | 2026-07-19 |
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | — | 10.6k | 2026-07-18 |
 | [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) | 去广告合并规则，每8个小时更新一次。 | Python | 7.3k | 2026-07-18 |
 | [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region. Block Ads, Trackers, Malware, HTTPDNS, PCDN. | Python | 3.6k | 2026-07-18 |
@@ -78,50 +78,50 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 216.7k | 2026-07-18 |
-| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | — | 193.8k | 2026-07-18 |
-| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 187.1k | 2026-07-18 |
-| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | 162.3k | 2026-07-18 |
-| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | C++ | 120.8k | 2026-07-18 |
-| [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | 99.3k | 2026-07-18 |
-| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | Python | 98.0k | 2026-07-18 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. | TypeScript | 79.4k | 2026-07-18 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | 77.3k | 2026-07-18 |
-| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | TypeScript | 75.0k | 2026-07-18 |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Python | 52.6k | 2026-07-18 |
+| [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) | The agent that grows with you | Python | 216.9k | 2026-07-19 |
+| [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) | A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. | — | 193.9k | 2026-07-19 |
+| [anomalyco/opencode](https://github.com/anomalyco/opencode) | The open source coding agent. | TypeScript | 187.2k | 2026-07-19 |
+| [anthropics/skills](https://github.com/anthropics/skills) | Public repository for Agent Skills | Python | 162.4k | 2026-07-19 |
+| [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | LLM inference in C/C++ | C++ | 120.9k | 2026-07-19 |
+| [openai/codex](https://github.com/openai/codex) | Lightweight coding agent that runs in your terminal | Rust | 99.4k | 2026-07-19 |
+| [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM. | Python | 98.0k | 2026-07-19 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. | TypeScript | 79.5k | 2026-07-19 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. | Python | 77.4k | 2026-07-19 |
+| [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) | Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. | TypeScript | 75.1k | 2026-07-19 |
+| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary | Python | 52.7k | 2026-07-19 |
 | [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞 | — | 51.3k | 2026-07-18 |
-| [janhq/jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | TypeScript | 43.6k | 2026-07-18 |
-| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | Go | 41.0k | 2026-07-18 |
-| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported) | Python | 40.7k | 2026-07-18 |
-| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | Open-source, community-driven agent harness | Rust | 39.9k | 2026-07-18 |
-| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 36.5k | 2026-07-18 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | TypeScript | 36.1k | 2026-07-18 |
-| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. | Rust | 35.0k | 2026-07-18 |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 32.1k | 2026-07-18 |
-| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | TypeScript | 26.1k | 2026-07-18 |
-| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine | Python | 25.7k | 2026-07-18 |
-| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | Rust | 25.7k | 2026-07-18 |
-| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. | Python | 22.7k | 2026-07-18 |
-| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 22.6k | 2026-07-18 |
-| [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | Python | 20.4k | 2026-07-18 |
-| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | MiMo Code: Where Models and Agents Co-Evolve | TypeScript | 12.2k | 2026-07-18 |
+| [janhq/jan](https://github.com/janhq/jan) | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. | TypeScript | 43.6k | 2026-07-19 |
+| [multica-ai/multica](https://github.com/multica-ai/multica) | The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills. | Go | 41.0k | 2026-07-19 |
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | Use claude code, codex or pi for free from the terminal, IDE, or you phone like OpenClaw (voice supported) | Python | 40.8k | 2026-07-19 |
+| [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) | Open-source, community-driven agent harness | Rust | 39.9k | 2026-07-19 |
+| [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) | AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ | Python | 36.6k | 2026-07-19 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | TypeScript | 36.1k | 2026-07-19 |
+| [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) | Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. | Rust | 35.0k | 2026-07-19 |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 32.1k | 2026-07-19 |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | An open-source AI coding agent that lives in your terminal. | TypeScript | 26.1k | 2026-07-19 |
+| [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) | 🚀 AI 全自动短视频引擎 \| AI Fully Automated Short Video Engine | Python | 25.7k | 2026-07-19 |
+| [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) | An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服 | Rust | 25.7k | 2026-07-19 |
+| [alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills) | 345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. | Python | 22.8k | 2026-07-19 |
+| [decolua/9router](https://github.com/decolua/9router) | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. | JavaScript | 22.6k | 2026-07-19 |
+| [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) | 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It's giving rebirth era. Welcome to Digital Life 1.0. 🫶 | Python | 20.4k | 2026-07-19 |
+| [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) | MiMo Code: Where Models and Agents Co-Evolve | TypeScript | 12.2k | 2026-07-19 |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ | TypeScript | 9.9k | 2026-07-18 |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | Codex Dream Skin | JavaScript | 9.6k | 2026-07-18 |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | JavaScript | 9.0k | 2026-07-18 |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | Codex Dream Skin | JavaScript | 9.8k | 2026-07-19 |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | JavaScript | 9.0k | 2026-07-19 |
 | [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill) | 把前任蒸馏成 AI Skill，用ta的方式跟你说话。 | Python | 5.9k | 2026-07-18 |
 | [Mai-with-u/MaiBot](https://github.com/Mai-with-u/MaiBot) | MaiSaka, an LLM-based intelligent agent, is a digital lifeform devoted to understanding you and interacting in the style of a real human. She does not pursue perfection, nor does she seek efficiency; instead, she values warmth, authenticity, and genuine connection. | Python | 5.5k | 2026-07-18 |
-| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 3.2k | 2026-07-18 |
+| [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) | 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 | Python | 3.7k | 2026-07-19 |
 | [xororz/local-dream](https://github.com/xororz/local-dream) | Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference. | Kotlin | 2.9k | 2026-07-18 |
-| [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) | Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 | TypeScript | 1.9k | 2026-07-18 |
-| [dimthink/PriceAI](https://github.com/dimthink/PriceAI) | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 | TypeScript | 1.8k | 2026-07-18 |
+| [lessweb/deepcode-cli](https://github.com/lessweb/deepcode-cli) | Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 | TypeScript | 1.9k | 2026-07-19 |
+| [dimthink/PriceAI](https://github.com/dimthink/PriceAI) | AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 | TypeScript | 1.8k | 2026-07-19 |
 | [AstrBotDevs/astrbot-launcher](https://github.com/AstrBotDevs/astrbot-launcher) | AstrBot Launcher是一款用于图形化管理AstrBot的桌面应用程序，提供版本下载、实例管理、数据备份以及Python运行环境自动化配置等完整功能支持。 | Rust | 1.2k | 2026-07-18 |
-| [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) | NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台于一体，兼具高扩展性、多模态交互、实时状态推送和自动化运行能力。项目支持 QQ、Discord、Telegram、Minecraft、BilibiliLive、WeChat、Email、SSE(SDK) 等多种平台接入，应用于构建高智能聊天机器人，可扩展为具备代码执行、工具调用、插件协作和复杂任务处理能力的通用 Agent 系统 | Python | 1.1k | 2026-07-17 |
+| [KroMiose/nekro-agent](https://github.com/KroMiose/nekro-agent) | NekroAgent 是一个面向多人互动场景的跨平台 Agent 框架，集 Claude Code 沙盒执行、工作区编排、长期记忆、结构化 MCP 管理与可视化控制台于一体，兼具高扩展性、多模态交互、实时状态推送和自动化运行能力。项目支持 QQ、Discord、Telegram、Minecraft、BilibiliLive、WeChat、Email、SSE(SDK) 等多种平台接入，应用于构建高智能聊天机器人，可扩展为具备代码执行、工具调用、插件协作和复杂任务处理能力的通用 Agent 系统 | Python | 1.1k | 2026-07-18 |
 | [MewCo-AI/mewco_ai_assistant_comm](https://github.com/MewCo-AI/mewco_ai_assistant_comm) | 枫云AI助手社区版 | Python | 750 | 2026-07-18 |
 | [AstrBotDevs/AstrBot-desktop](https://github.com/AstrBotDevs/AstrBot-desktop) | The desktop edition of AstrBot, designed for fast local installation and convenient access to ChatUI and plugins. | Vue | 665 | 2026-07-18 |
-| [RachelForster/Shinsekai](https://github.com/RachelForster/Shinsekai) | AI RPG maker | Python | 506 | 2026-07-18 |
-| [keggin-CHN/Magic-Mirror](https://github.com/keggin-CHN/Magic-Mirror) | Magic Mirror 是一面写在像素里的魔镜：让影像轻轻流转，让面容在光里重生。A mirror of pixels, a face reborn in light. | Python | 250 | 2026-07-18 |
+| [RachelForster/Shinsekai](https://github.com/RachelForster/Shinsekai) | AI RPG maker | Python | 506 | 2026-07-19 |
+| [keggin-CHN/Magic-Mirror](https://github.com/keggin-CHN/Magic-Mirror) | Magic Mirror 是一面写在像素里的魔镜：让影像轻轻流转，让面容在光里重生。A mirror of pixels, a face reborn in light. | Python | 253 | 2026-07-19 |
 | [xiaoheizi8/crush-skills](https://github.com/xiaoheizi8/crush-skills) | 与其迷恋幻影，不如迷恋Crush。欢迎加入数字永生！Inspired by colleague-skill（同事skill）. | Python | 236 | 2026-07-18 |
-| [HarlonWang/TrendingAI](https://github.com/HarlonWang/TrendingAI) | 全球技术热点，AI 精选速递。（Global tech trends, fast-picked by AI） | Kotlin | 208 | 2026-07-18 |
+| [HarlonWang/TrendingAI](https://github.com/HarlonWang/TrendingAI) | 全球技术热点，AI 精选速递。（Global tech trends, fast-picked by AI） | Kotlin | 211 | 2026-07-18 |
 | [JodieRuth/GalgameCharacterSkills](https://github.com/JodieRuth/GalgameCharacterSkills) | 从Galgame的剧情文本或是任何长文本中将一个角色提取为skills或角色卡。 | Python | 179 | 2026-07-17 |
 | [thedaviddias/souls-directory](https://github.com/thedaviddias/souls-directory) | 🧠 Directory of SOUL.md personality files for OpenClaw agents | TypeScript | 144 | 2026-07-17 |
 | [Neko-Suwako/pig-skill](https://github.com/Neko-Suwako/pig-skill) | 把群友蒸馏成 AI Skill，用ta的方式跟你说话。Inspired by colleague-skill（同事skill）. | Python | 77 | 2026-07-06 |
@@ -138,7 +138,7 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | TypeScript | 42.8k | 2026-07-18 |
+| [moeru-ai/airi](https://github.com/moeru-ai/airi) | 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported. | TypeScript | 42.8k | 2026-07-19 |
 | [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) | AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它使用TTS技术【edge-tts/VITS/elevenlabs/bark/bert-vits2/睿声】生成回答并可以选择【so-vits-svc/DDSP-SVC】变声；指令协同SD画图。 | Python | 4.4k | 2026-07-18 |
 | [ProjectViVy/agent-diva](https://github.com/ProjectViVy/agent-diva) | Next Generation AI Agent(AKA:nanobot-rs-pro) | Rust | 58 | 2026-07-17 |
 | [IAIAYN/AmaiGirl](https://github.com/IAIAYN/AmaiGirl) | 面向全平台愿景的原生 AI 桌面助手，支持 Live2D 角色交互与 OpenAI 兼容对话/TTS API。 \| A cross-platform and native vision AI desktop assistant with Live2D character interaction and OpenAI-compatible chat/TTS APIs. | C++ | 21 | 2026-07-07 |
@@ -152,8 +152,8 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | Python | 222.8k | 2026-07-18 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.0k | 2026-07-18 |
+| [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | All Algorithms implemented in Python | Python | 222.9k | 2026-07-19 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.1k | 2026-07-19 |
 
 </details>
 
@@ -164,51 +164,51 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118.4k | 2026-07-18 |
-| [skylot/jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | Java | 49.7k | 2026-07-18 |
-| [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | A rule-based tunnel for Android. | Kotlin | 43.1k | 2026-07-18 |
-| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules | Kotlin | 40.3k | 2026-07-18 |
-| [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | Kotlin | 29.1k | 2026-07-17 |
-| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | Dart | 27.8k | 2026-07-18 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118.5k | 2026-07-19 |
+| [skylot/jadx](https://github.com/skylot/jadx) | Dex to Java decompiler | Java | 49.7k | 2026-07-19 |
+| [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) | A rule-based tunnel for Android. | Kotlin | 43.1k | 2026-07-19 |
+| [gkd-kit/gkd](https://github.com/gkd-kit/gkd) | 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules | Kotlin | 40.3k | 2026-07-19 |
+| [signalapp/Signal-Android](https://github.com/signalapp/Signal-Android) | A private messenger for Android. | Kotlin | 29.1k | 2026-07-18 |
+| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | Dart | 27.8k | 2026-07-19 |
 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | C | 25.4k | 2026-07-18 |
 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) |   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | Go | 25.3k | 2026-07-18 |
-| [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android | Kotlin | 21.9k | 2026-07-18 |
-| [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform | Kotlin | 18.9k | 2026-07-18 |
+| [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) | NekoBox for Android / sing-box / universal proxy toolchain for Android | Kotlin | 21.9k | 2026-07-19 |
+| [open-ani/animeko](https://github.com/open-ani/animeko) | 集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform | Kotlin | 18.9k | 2026-07-19 |
 | [lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile) | 一个基于 React native 开发的音乐软件 | TypeScript | 17.5k | 2026-07-18 |
-| [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | Dart | 13.9k | 2026-07-18 |
+| [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 | Dart | 13.9k | 2026-07-19 |
 | [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) | 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆 | Java | 10.9k | 2026-07-18 |
 | [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) | Material Design file manager for Android | Kotlin | 8.6k | 2026-07-18 |
-| [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | :cloud: Sync your bookmarks privately across browsers and devices | JavaScript | 8.2k | 2026-07-18 |
+| [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | :cloud: Sync your bookmarks privately across browsers and devices | JavaScript | 8.2k | 2026-07-19 |
 | [d4rken-org/sdmaid-se](https://github.com/d4rken-org/sdmaid-se) | SD Maid 2/SE is Android's most thorough cleaning tool. | Kotlin | 7.1k | 2026-07-18 |
 | [Archmage83/tvapk](https://github.com/Archmage83/tvapk) | 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。 | Java | 6.1k | 2026-07-18 |
 | [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode) | Acode - powerful text/code editor for android | JavaScript | 6.1k | 2026-07-18 |
-| [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM | Kotlin | 5.9k | 2026-07-18 |
+| [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra) | Kernel-based Android Root Solution & KPM | Kotlin | 5.9k | 2026-07-19 |
 | [gsantner/markor](https://github.com/gsantner/markor) | Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, .. | Java | 5.9k | 2026-07-18 |
 | [hect0x7/JMComic-APK](https://github.com/hect0x7/JMComic-APK) | 防迷路 \| 禁漫天堂APK \| 禁漫APP安卓安装包 \| jm天堂 \| 回家 \| GitHub Actions \| JMComic3 \| JMComic2 | Python | 5.5k | 2026-07-18 |
-| [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) | Fcitx5 input method framework and engines ported to Android | Kotlin | 5.4k | 2026-07-18 |
+| [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) | Fcitx5 input method framework and engines ported to Android | Kotlin | 5.4k | 2026-07-19 |
 | [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) | 第三方B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上 | C++ | 5.3k | 2026-07-16 |
 | [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) | Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. | Kotlin | 5.3k | 2026-07-12 |
-| [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) | A native Android application that converts any website URL into a standalone Android App. | Kotlin | 4.9k | 2026-07-18 |
+| [shiaho777/web-to-app](https://github.com/shiaho777/web-to-app) | A native Android application that converts any website URL into a standalone Android App. | Kotlin | 4.9k | 2026-07-19 |
 | [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) | AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" \(^o^)/~ | Java | 4.6k | 2026-07-14 |
 | [LanRhyme/MicYou](https://github.com/LanRhyme/MicYou) | MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC. | Kotlin | 3.0k | 2026-07-18 |
 | [zeas2/Kirikiroid2](https://github.com/zeas2/Kirikiroid2) | — | C++ | 2.9k | 2026-07-18 |
 | [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) | Mobile Git client for syncing a repository between remote and a local directory | Dart | 2.1k | 2026-07-18 |
 | [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons) | Monochrome outlined brand icons for Android launchers. | Kotlin | 2.0k | 2026-07-18 |
 | [ActivityLauncher/ActivityLauncher](https://github.com/ActivityLauncher/ActivityLauncher) | Activity launcher creates shortcuts for any installed app and hidden activities to launch them with ease | Kotlin | 1.8k | 2026-07-18 |
-| [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) | Decentralized private messenger with chat-shared tools and games for Android | Java | 1.8k | 2026-07-17 |
+| [deltachat/deltachat-android](https://github.com/deltachat/deltachat-android) | Decentralized private messenger with chat-shared tools and games for Android | Java | 1.8k | 2026-07-19 |
 | [apk-editor/APK-Explorer-Editor](https://github.com/apk-editor/APK-Explorer-Editor) | Source code of APK Explorer & Editor (AEE),  an open-source tool to explore the contents of an installed APK! | Java | 1.3k | 2026-07-18 |
-| [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) | A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported) | Kotlin | 1.0k | 2026-07-18 |
+| [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) | A fully open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported) | Kotlin | 1.1k | 2026-07-19 |
 | [DavidVentura/offline-translator](https://github.com/DavidVentura/offline-translator) | Use Firefox Translation Models for on-device translation on Android | Kotlin | 1.0k | 2026-07-18 |
-| [bszapp/android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) | Android使用密码本暴力破解wifi密码工具 | Kotlin | 879 | 2026-07-18 |
-| [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) | An android git client | Kotlin | 846 | 2026-07-18 |
-| [XingHeYuZhuan/shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) | 一款开源、无广告、极简的课程表 APP，支持教务导入 | Kotlin | 541 | 2026-07-18 |
+| [bszapp/android-wifi-pojie](https://github.com/bszapp/android-wifi-pojie) | Android使用密码本暴力破解wifi密码工具 | Kotlin | 880 | 2026-07-18 |
+| [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) | An android git client | Kotlin | 848 | 2026-07-18 |
+| [XingHeYuZhuan/shiguangschedule](https://github.com/XingHeYuZhuan/shiguangschedule) | 一款开源、无广告、极简的课程表 APP，支持教务导入 | Kotlin | 542 | 2026-07-18 |
 | [yume-chan/VolumeManager](https://github.com/yume-chan/VolumeManager) | Control each app's volume independently. | Kotlin | 487 | 2026-07-18 |
-| [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job] | Kotlin | 473 | 2026-07-18 |
-| [2468785842/krkr2](https://github.com/2468785842/krkr2) | krkr game Emulator | C++ | 356 | 2026-07-14 |
+| [thejaustin/ShizukuPlus](https://github.com/thejaustin/ShizukuPlus) | [ HOBBY PROJECT ] Shizuku+ goes deeper than the OG Shizuku. Take a look inside, and see what you find. [WIP - Development slowed due to new job] | Kotlin | 474 | 2026-07-18 |
+| [2468785842/krkr2](https://github.com/2468785842/krkr2) | krkr game Emulator | C++ | 357 | 2026-07-18 |
 | [NitishGadangi/Privacy-Indicator-App](https://github.com/NitishGadangi/Privacy-Indicator-App) | 🔔 Get the famous "Recording Indicators" feature of iOS14 to android. Get notified every time a third-party app or a service uses camera or microphone. | Kotlin | 318 | 2026-07-10 |
 | [fibelatti/photo-widget](https://github.com/fibelatti/photo-widget) | Material Photo Widget is as simple as it can be: an Android home screen widget to display your favorite photos. It is a free, no-ads, open source alternative for people who want to customize their home screen. | Kotlin | 314 | 2026-07-17 |
 | [jahirfiquitiva/Kuper](https://github.com/jahirfiquitiva/Kuper) | Free, feature-rich, easily customizable Android dashboard for widgets apps with Zooper widgets and/or Kustom assets (Widgets, Wallpapers and Komponents) | Kotlin | 241 | 2026-07-14 |
-| [sadellie/sukko](https://github.com/sadellie/sukko) | KWGT alternative to create custom Android widgets | Kotlin | 155 | 2026-07-13 |
+| [sadellie/sukko](https://github.com/sadellie/sukko) | KWGT alternative to create custom Android widgets | Kotlin | 156 | 2026-07-18 |
 | [FredHappyface/Android.EweSticker](https://github.com/FredHappyface/Android.EweSticker) | EweSticker is an Android sticker keyboard application, specifically designed for sharing a wide variety of custom stickers in supported messaging apps. This project draws inspiration from the uSticker project and is a fork of the woosticker repository. | Kotlin | 151 | 2026-07-05 |
 | [jameshnsears/QuoteUnquote](https://github.com/jameshnsears/QuoteUnquote) | A Quotations / Affirmations App Widget | HTML | 95 | 2026-07-18 |
 | [catpuppyapp/SshKeyMan](https://github.com/catpuppyapp/SshKeyMan) | Generate/Manage your ssh keys on Android | Kotlin | 62 | 2026-07-09 |
@@ -239,7 +239,7 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 451.1k | 2026-07-18 |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | A collective list of free APIs | Python | 451.2k | 2026-07-19 |
 | [open-meteo/open-meteo](https://github.com/open-meteo/open-meteo) | Free Weather Forecast API for non-commercial use | Swift | 5.9k | 2026-07-18 |
 | [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) | 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 \| 前端页面：https://github.com/imsyy/DailyHot | TypeScript | 3.9k | 2026-07-18 |
 | [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api) | Live2D 看板娘插件 后端 API | PHP | 1.3k | 2026-07-15 |
@@ -254,7 +254,7 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | JavaScript | 52.6k | 2026-07-18 |
+| [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | JavaScript | 52.6k | 2026-07-19 |
 | [hunterhug/china-history](https://github.com/hunterhug/china-history) | ❤️中华民族二十四史：史记，汉书，后汉书，三国志等。 | HTML | 91 | 2026-07-12 |
 
 </details>
@@ -262,19 +262,22 @@
 ## Browser extension
 
 <details open>
-<summary>details (13)</summary>
+<summary>details (16)</summary>
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | JavaScript | 20.7k | 2026-07-18 |
-| [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | JavaScript | 11.4k | 2026-07-18 |
+| [xifangczy/cat-catch](https://github.com/xifangczy/cat-catch) | 猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension | JavaScript | 20.7k | 2026-07-19 |
+| [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | JavaScript | 11.4k | 2026-07-19 |
+| [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。 | TypeScript | 5.5k | 2026-07-18 |
 | [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) | Browser extension that automatically fills out cookie popups based on your preferences | JavaScript | 4.1k | 2026-07-18 |
 | [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) | A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. | TypeScript | 2.8k | 2026-07-14 |
 | [zombieFox/nightTab](https://github.com/zombieFox/nightTab) | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | JavaScript | 2.0k | 2026-07-15 |
 | [monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) | Gopeed 百度网盘下载扩展。 | JavaScript | 2.0k | 2026-07-18 |
 | [eallion/uBlacklist-subscription-compilation](https://github.com/eallion/uBlacklist-subscription-compilation) | 🚫 uBlacklist subscription 订阅合集 | Go | 1.3k | 2026-07-17 |
 | [setube/stackprism](https://github.com/setube/stackprism) | StackPrism是一款用于检测网页技术栈的浏览器插件。 | TypeScript | 785 | 2026-07-17 |
-| [drunkg00se/Pixiv-Downloader](https://github.com/drunkg00se/Pixiv-Downloader) | A userscript for downloading artworks from Pixiv and other websites. | TypeScript | 230 | 2026-07-17 |
+| [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) | 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。 | JavaScript | 594 | 2026-07-18 |
+| [drunkg00se/Pixiv-Downloader](https://github.com/drunkg00se/Pixiv-Downloader) | A userscript for downloading artworks from Pixiv and other websites. | TypeScript | 231 | 2026-07-18 |
+| [IronKinoko/agefans-enhance](https://github.com/IronKinoko/agefans-enhance) | 增强 agefans 等网站播放功能，实现自动换集、画中画、历史记录、断点续播、弹幕等功能 | TypeScript | 171 | 2026-07-16 |
 | [jdysya/pikpakHelpr-plus](https://github.com/jdysya/pikpakHelpr-plus) | 基于pikpakHelpr改进的 Pikpak 增强脚本——调用官方 API 获取文件信息，支持勾选文件/文件夹一键推送到 Aria2 下载。 | Vue | 80 | 2026-07-14 |
 | [loftyshaky/clear-new-tab](https://github.com/loftyshaky/clear-new-tab) | — | TypeScript | 25 | 2026-05-26 |
 | [Qi-Zhan/BrowsingYearReview](https://github.com/Qi-Zhan/BrowsingYearReview) | 快来生成你的浏览记录年度总结! | JavaScript | 18 | 2026-03-26 |
@@ -309,14 +312,14 @@
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
 | [xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ) | ehviewer，用爱发电，快乐前行 | C | 25.4k | 2026-07-18 |
-| [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) | 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ | Vue | 21.9k | 2026-07-18 |
-| [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | C++ | 12.4k | 2026-07-18 |
+| [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) | 🐱 跨平台互动桌宠 BongoCat，为桌面增添乐趣！ | Vue | 21.9k | 2026-07-19 |
+| [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | C++ | 12.4k | 2026-07-19 |
 | [pshenok/server-survival](https://github.com/pshenok/server-survival) | Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling. | JavaScript | 6.2k | 2026-07-18 |
 | [panda3d/panda3d](https://github.com/panda3d/panda3d) | Powerful, mature open-source cross-platform game engine for Python and C++, developed by Disney and CMU | C++ | 5.2k | 2026-07-18 |
 | [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) | 基于RSS自动追番、订阅、下载、刮削、洗版 | Java | 3.4k | 2026-07-18 |
 | [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) | 🚀 汇聚优质的第三方 BongoCat 模型！ | — | 1.8k | 2026-07-18 |
 | [tianxingleo/ACGTI](https://github.com/tianxingleo/ACGTI) | ACG Type Indicator - MBTI inspired anime persona quiz | TypeScript | 992 | 2026-07-18 |
-| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 895 | 2026-07-18 |
+| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 893 | 2026-07-18 |
 | [FerryYoungFan/VirtualCockroach](https://github.com/FerryYoungFan/VirtualCockroach) | 一只蟑螂桌面“宠物” Cockroach Desktop "Pet" | ActionScript | 715 | 2026-07-17 |
 | [yaoyao2mm/cheatreader](https://github.com/yaoyao2mm/cheatreader) | A floating desktop reader with transparent text-only mode for low-distraction reading. | Dart | 546 | 2026-07-18 |
 | [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test) | 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿 | HTML | 432 | 2026-07-17 |
@@ -335,14 +338,14 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | Python | 165.8k | 2026-07-18 |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-18 |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. | Python | 165.9k | 2026-07-19 |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-19 |
 | [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) | The best way to write secure and reliable applications. Write nothing; deploy nowhere. | Dockerfile | 65.5k | 2026-07-18 |
-| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | 58.6k | 2026-07-18 |
+| [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) | 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 | Python | 58.6k | 2026-07-19 |
 | [go-gitea/gitea](https://github.com/go-gitea/gitea) | Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD | Go | 56.9k | 2026-07-18 |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile which updates in real time  | — | 30.6k | 2026-07-18 |
-| [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | Python | 29.1k | 2026-07-18 |
-| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! | JavaScript | 16.9k | 2026-07-18 |
+| [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） | Python | 29.1k | 2026-07-19 |
+| [lowlighter/metrics](https://github.com/lowlighter/metrics) | 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! | JavaScript | 16.9k | 2026-07-19 |
 | [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) | :trollface:Git的奇技淫巧 | — | 15.8k | 2026-07-17 |
 | [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 | Python | 8.9k | 2026-07-18 |
 | [Platane/snk](https://github.com/Platane/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | TypeScript | 6.0k | 2026-07-18 |
@@ -350,19 +353,19 @@
 | [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) | A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story. | Rust | 4.9k | 2026-07-18 |
 | [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | This GitHub action helps to add cool dev metrics to your github profile Readme | Python | 4.0k | 2026-07-18 |
 | [Red-Killer/shit](https://github.com/Red-Killer/shit) | — | — | 4.0k | 2026-07-18 |
-| [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | A tool to generate your GitHub summary card for profile README | TypeScript | 3.6k | 2026-07-18 |
+| [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) | A tool to generate your GitHub summary card for profile README | TypeScript | 3.6k | 2026-07-19 |
 | [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) | AI-powered GitHub stars manager with semantic search, auto-categorization, and release tracking | TypeScript | 3.2k | 2026-07-18 |
 | [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | JavaScript | 3.0k | 2026-07-17 |
 | [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) | Mobile Git client for syncing a repository between remote and a local directory | Dart | 2.1k | 2026-07-18 |
 | [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render) | 🌈 Dynamic Coloful Image Render | TypeScript | 1.8k | 2026-07-17 |
-| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-18 |
-| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 848 | 2026-07-16 |
-| [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) | An android git client | Kotlin | 846 | 2026-07-18 |
+| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-19 |
+| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 849 | 2026-07-18 |
+| [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) | An android git client | Kotlin | 848 | 2026-07-18 |
 | [zxdrive/imouto.host](https://github.com/zxdrive/imouto.host) | 为你而战，哥哥大人。 | — | 732 | 2026-07-12 |
 | [LuciNyan/pixel-profile](https://github.com/LuciNyan/pixel-profile) | Generate a pixel art style profile card from your GitHub data! ✨ | TypeScript | 564 | 2026-07-16 |
 | [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) | 🏅 A Material You inspired markdown badge collection. | Python | 278 | 2026-07-10 |
 | [stats-organization/github-readme-stats-action](https://github.com/stats-organization/github-readme-stats-action) | GitHub Action to generate GitHub Readme Stats cards. | JavaScript | 223 | 2026-07-18 |
-| [qoomon/starlines](https://github.com/qoomon/starlines) | Create beautiful stargazers histograms of your repositories or gists | JavaScript | 161 | 2026-07-13 |
+| [qoomon/starlines](https://github.com/qoomon/starlines) | Create beautiful stargazers histograms of your repositories or gists | JavaScript | 162 | 2026-07-18 |
 | [J0B10/aoc-badges-action](https://github.com/J0B10/aoc-badges-action) | Github Action to update the badges of your Readme to show your current Advent of Code stats | Python | 130 | 2026-06-25 |
 | [catpuppyapp/SshKeyMan](https://github.com/catpuppyapp/SshKeyMan) | Generate/Manage your ssh keys on Android | Kotlin | 62 | 2026-07-09 |
 | [IceEnd/github-immortality](https://github.com/IceEnd/github-immortality) | Dynamically generate stats for your GitHub readme | Python | 45 | 2026-06-18 |
@@ -382,7 +385,7 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | C | 73.9k | 2026-07-18 |
+| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | C | 73.9k | 2026-07-19 |
 | [jeff141/meatshell](https://github.com/jeff141/meatshell) | 一个轻量级、低内存占用的 SSH / 终端客户端（A lightweight, low-memory SSH / terminal client） | Rust | 1.1k | 2026-07-18 |
 
 </details>
@@ -395,13 +398,13 @@
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
 | [EYHN/hexo-helper-live2d](https://github.com/EYHN/hexo-helper-live2d) | Add the Sseexxyyy live2d to your hexo! | JavaScript | 3.9k | 2026-07-17 |
-| [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) | Inochi2D SDK - Bring your characters to life | D | 1.7k | 2026-07-16 |
+| [Inochi2D/inochi2d](https://github.com/Inochi2D/inochi2d) | Inochi2D SDK - Bring your characters to life | D | 1.7k | 2026-07-18 |
 | [fghrsh/live2d_api](https://github.com/fghrsh/live2d_api) | Live2D 看板娘插件 后端 API | PHP | 1.3k | 2026-07-15 |
 | [imuncle/live2d](https://github.com/imuncle/live2d) | live2d模型收集+展示，可直接用于静态网站 | JavaScript | 1.1k | 2026-07-17 |
 | [MewCo-AI/mewco_ai_assistant_comm](https://github.com/MewCo-AI/mewco_ai_assistant_comm) | 枫云AI助手社区版 | Python | 750 | 2026-07-18 |
-| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 594 | 2026-07-18 |
+| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 595 | 2026-07-18 |
 | [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) | Live2D Library for Python (C++ impl): Supports model loading, lip-sync, basic face rigging, and precise click test. | Python | 556 | 2026-07-14 |
-| [Inochi2D/inox2d](https://github.com/Inochi2D/inox2d) | Native Rust reimplementation of Inochi2D | Rust | 287 | 2026-07-09 |
+| [Inochi2D/inox2d](https://github.com/Inochi2D/inox2d) | Native Rust reimplementation of Inochi2D | Rust | 288 | 2026-07-18 |
 | [Live2D/CubismNativeFramework](https://github.com/Live2D/CubismNativeFramework) | [Notice of End of Support for Cocos2d-x]  With the upcoming release of Cubism 5 SDK for Native R2, support for Cocos2d-x will be ended. | C++ | 259 | 2026-07-14 |
 | [Live2D/CubismNativeSamples](https://github.com/Live2D/CubismNativeSamples) | [Notice of End of Support for Cocos2d-x]  With the upcoming release of Cubism 5 SDK for Native R2, support for Cocos2d-x will be ended. | — | 233 | 2026-07-09 |
 | [MelanTech/Dororo](https://github.com/MelanTech/Dororo) | 基于Godot开发的Doro桌面宠物 | GDScript | 139 | 2026-06-28 |
@@ -453,7 +456,7 @@
 |---|---|---|---|---|
 | [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) | Comfortably monitor your Internet traffic 🕵️‍♂️ | Rust | 40.1k | 2026-07-18 |
 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ | Go | 28.0k | 2026-07-18 |
-| [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | C# | 26.2k | 2026-07-18 |
+| [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) | 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。 | C# | 26.2k | 2026-07-19 |
 
 </details>
 
@@ -465,11 +468,11 @@
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
 | [rclone/rclone](https://github.com/rclone/rclone) | "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files | Go | 58.4k | 2026-07-18 |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 23.6k | 2026-07-18 |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 23.6k | 2026-07-19 |
 | [winfsp/winfsp](https://github.com/winfsp/winfsp) | Windows File System Proxy - FUSE for Windows | C | 8.8k | 2026-07-18 |
 | [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) | 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。 | TypeScript | 1.9k | 2026-07-17 |
 | [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList | Vue | 1.3k | 2026-07-18 |
-| [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | Flutter-based mobile app for managing files with OpenList. | Dart | 640 | 2026-07-18 |
+| [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | Flutter-based mobile app for managing files with OpenList. | Dart | 642 | 2026-07-18 |
 | [OpenListApp/OpenListApp](https://github.com/OpenListApp/OpenListApp) | Alist、OpenList GUI  App for Android、 iOS、Windows、macOS、Linux with Alist、OpenList local server | Dart | 482 | 2026-07-12 |
 
 </details>
@@ -481,20 +484,20 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-18 |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-19 |
 | [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) | 😎 A curated list of awesome GitHub Profile which updates in real time  | — | 30.6k | 2026-07-18 |
 | [badges/shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | JavaScript | 26.9k | 2026-07-18 |
 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer | Go | 23.1k | 2026-07-18 |
 | [Platane/snk](https://github.com/Platane/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | TypeScript | 6.0k | 2026-07-18 |
-| [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. | C | 5.0k | 2026-07-18 |
+| [hpjansson/chafa](https://github.com/hpjansson/chafa) | 📺🗿 Terminal graphics for the 21st century. | C | 5.0k | 2026-07-19 |
 | [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) | Overlay for running GPU shaders on top of Windows desktop and Wine | C++ | 4.1k | 2026-07-18 |
 | [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | This GitHub action helps to add cool dev metrics to your github profile Readme | Python | 4.0k | 2026-07-18 |
-| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-18 |
-| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 895 | 2026-07-18 |
-| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 848 | 2026-07-16 |
+| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-19 |
+| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 893 | 2026-07-18 |
+| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 849 | 2026-07-18 |
 | [widget-js/widgets](https://github.com/widget-js/widgets) | Desktop widgets for windows. built with vue3 | TypeScript | 727 | 2026-07-10 |
-| [ifer47/markeron](https://github.com/ifer47/markeron) | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux. | TypeScript | 667 | 2026-07-18 |
-| [liixini/skwd-wall](https://github.com/liixini/skwd-wall) | An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not. | QML | 541 | 2026-07-18 |
+| [ifer47/markeron](https://github.com/ifer47/markeron) | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS. | TypeScript | 672 | 2026-07-18 |
+| [liixini/skwd-wall](https://github.com/liixini/skwd-wall) | An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not. | QML | 542 | 2026-07-18 |
 | [baby7/agile-tiles](https://github.com/baby7/agile-tiles) | 【灵卡面板】一款Windows侧边栏应用，打造你的自定义专属摸鱼办公面板 | Python | 331 | 2026-07-12 |
 | [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) | Exquisite GitHub style Gitea themes | TypeScript | 326 | 2026-07-18 |
 | [MurthiNext/img2text](https://github.com/MurthiNext/img2text) | 将图片转换为带有 ANSI 颜色代码的字符画。 | Python | 78 | 2026-07-15 |
@@ -516,7 +519,7 @@
 | [papyros/qml-material](https://github.com/papyros/qml-material) | :book: Material Design implemented in QtQuick | QML | 2.6k | 2026-07-16 |
 | [jaredtao/TaoQuick](https://github.com/jaredtao/TaoQuick) | a cool QtQuick component library (一套酷炫的QtQuick基础库) | QML | 1.5k | 2026-07-16 |
 | [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) | Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss. | Python | 1.5k | 2026-07-16 |
-| [czyt1988/SARibbon](https://github.com/czyt1988/SARibbon) | Ribbon Control for Qt | C++ | 1.4k | 2026-07-14 |
+| [czyt1988/SARibbon](https://github.com/czyt1988/SARibbon) | Ribbon Control for Qt | C++ | 1.4k | 2026-07-18 |
 | [cneben/QuickQanava](https://github.com/cneben/QuickQanava) | :link: C++17 network / graph visualization library - Qt6 / QML node editor. | C++ | 1.4k | 2026-07-18 |
 | [YYC572652645/QCoolPage](https://github.com/YYC572652645/QCoolPage) | Qt炫酷界面 | C++ | 1.1k | 2026-07-17 |
 | [lirios/fluid](https://github.com/lirios/fluid) | Material Design for QtQuick and Qml | QML | 886 | 2026-07-15 |
@@ -538,25 +541,25 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | — | 486.3k | 2026-07-18 |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | — | 306.4k | 2026-07-18 |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.0k | 2026-07-18 |
-| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | — | 97.0k | 2026-07-18 |
-| [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | JavaScript | 52.6k | 2026-07-18 |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 😎 Awesome lists about all kinds of interesting topics | — | 486.5k | 2026-07-19 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | A list of Free Software network services and web applications which can be hosted on your own servers | — | 306.5k | 2026-07-19 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.1k | 2026-07-19 |
+| [ruanyf/weekly](https://github.com/ruanyf/weekly) | 科技爱好者周刊，每周五发布 | — | 97.0k | 2026-07-19 |
+| [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) | The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。 | JavaScript | 52.6k | 2026-07-19 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | TypeScript | 45.3k | 2026-07-18 |
-| [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | TypeScript | 39.6k | 2026-07-18 |
-| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 🧡 Folo is the AI RSS Reader | TypeScript | 38.7k | 2026-07-18 |
+| [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) | A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! | TypeScript | 39.7k | 2026-07-18 |
+| [RSSNext/Folo](https://github.com/RSSNext/Folo) | 🧡 Folo is the AI RSS Reader | TypeScript | 38.7k | 2026-07-19 |
 | [doocs/leetcode](https://github.com/doocs/leetcode) | 🔥LeetCode solutions in any programming language \| 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解 | Java | 36.3k | 2026-07-18 |
-| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 34.4k | 2026-07-18 |
-| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 | Python | 27.4k | 2026-07-18 |
+| [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere. | TypeScript | 34.4k | 2026-07-19 |
+| [subframe7536/maple-font](https://github.com/subframe7536/maple-font) | Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项 | Python | 27.4k | 2026-07-19 |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | CMake | 27.3k | 2026-07-18 |
 | [badges/shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | JavaScript | 26.9k | 2026-07-18 |
-| [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done. | TypeScript | 26.9k | 2026-07-18 |
+| [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done. | TypeScript | 26.9k | 2026-07-19 |
 | [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) | An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。   | Shell | 25.2k | 2026-07-18 |
-| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 23.6k | 2026-07-18 |
+| [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) | A new AList Fork to Anti Trust Crisis | Go | 23.6k | 2026-07-19 |
 | [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) | Anime Girls Holding Programming Books | — | 22.4k | 2026-07-18 |
 | [iDvel/rime-ice](https://github.com/iDvel/rime-ice) | Rime 配置：雾凇拼音 \| 长期维护的简体词库 | Lua | 18.4k | 2026-07-18 |
-| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Showcase your skills on your Github readme or resumé with ease ✨ | SVG | 12.8k | 2026-07-18 |
+| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Showcase your skills on your Github readme or resumé with ease ✨ | SVG | 12.8k | 2026-07-19 |
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | — | 10.6k | 2026-07-18 |
 | [dicebear/dicebear](https://github.com/dicebear/dicebear) | DiceBear is an avatar library for designers and developers. 🌍 | Vue | 9.1k | 2026-07-18 |
 | [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) | — | — | 6.7k | 2026-07-18 |
@@ -566,11 +569,11 @@
 | [mikepenz/Android-Iconics](https://github.com/mikepenz/Android-Iconics) | Android-Iconics - Use any icon font, or vector (.svg) as drawable in your application. | Kotlin | 5.3k | 2026-07-12 |
 | [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) | 📄 Easily create your resume with Markdown on VSCode / Typora / Obsidian | CSS | 4.8k | 2026-07-18 |
 | [Cats-Team/AdRules](https://github.com/Cats-Team/AdRules) | List for blocking ads in the Chinese region. Block Ads, Trackers, Malware, HTTPDNS, PCDN. | Python | 3.6k | 2026-07-18 |
-| [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) | Make your first open-source contribution. | Python | 3.4k | 2026-07-17 |
+| [DeepSourceCorp/good-first-issue](https://github.com/DeepSourceCorp/good-first-issue) | Make your first open-source contribution. | Python | 3.4k | 2026-07-18 |
 | [CyC2018/Markdown-Resume](https://github.com/CyC2018/Markdown-Resume) | ⭐️ Markdown 简历模版 | HTML | 3.4k | 2026-07-14 |
 | [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) | UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/ | C# | 3.3k | 2026-07-18 |
+| [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 | JavaScript | 3.2k | 2026-07-19 |
 | [getActivity/EmojiPackage](https://github.com/getActivity/EmojiPackage) | 表情包资源合集，张张都是经典 | — | 3.0k | 2026-07-18 |
-| [laoma2053/awesome-zhuiju-free](https://github.com/laoma2053/awesome-zhuiju-free) | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV 订阅源、会员拼团、影视相关开源项目。开源，社区共同维护。 | JavaScript | 2.8k | 2026-07-18 |
 | [chenhb23/lanzouyun-disk](https://github.com/chenhb23/lanzouyun-disk) | 蓝奏云网盘、客户端，实现了蓝奏云大部分功能并添加了许多增强型功能，可作为网盘的日常管理工具使用。项目用 electron 构建，支持 macos 和 windows。 | TypeScript | 1.9k | 2026-07-17 |
 | [ayangweb/Awesome-BongoCat](https://github.com/ayangweb/Awesome-BongoCat) | 🚀 汇聚优质的第三方 BongoCat 模型！ | — | 1.8k | 2026-07-18 |
 | [damnever/pigar](https://github.com/damnever/pigar) | :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL) | Python | 1.8k | 2026-07-15 |
@@ -580,7 +583,7 @@
 | [makipom/BlueArchive-Cursors](https://github.com/makipom/BlueArchive-Cursors) | Custom mouse cursor theme based on the school RPG Blue Archive. | — | 841 | 2026-07-18 |
 | [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) | 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design. ／ 孤独摇滚 Bocchi the Rock 原神 Genshin 沉默魔女 Silent Witch | — | 790 | 2026-07-18 |
 | [Alexhuszagh/BreezeStyleSheets](https://github.com/Alexhuszagh/BreezeStyleSheets) | Breeze/BreezeDark-like Qt StyleSheets  | Python | 660 | 2026-07-10 |
-| [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | Flutter-based mobile app for managing files with OpenList. | Dart | 640 | 2026-07-18 |
+| [OpenListTeam/OpenList-Mobile](https://github.com/OpenListTeam/OpenList-Mobile) | Flutter-based mobile app for managing files with OpenList. | Dart | 642 | 2026-07-18 |
 | [user1121114685/Wallpaper_Engine](https://github.com/user1121114685/Wallpaper_Engine) | 一个便捷的创意工坊下载器 | Dart | 493 | 2026-07-14 |
 | [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) | Exquisite GitHub style Gitea themes | TypeScript | 326 | 2026-07-18 |
 | [googlefonts/opensans](https://github.com/googlefonts/opensans) | Open Sans font | Shell | 298 | 2026-07-06 |
@@ -629,14 +632,14 @@
 |---|---|---|---|---|
 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | The most customisable and low-latency cross platform/shell prompt renderer | Go | 23.1k | 2026-07-18 |
 | [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) | 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘 | JavaScript | 18.3k | 2026-07-18 |
-| [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 | TypeScript | 11.9k | 2026-07-18 |
-| [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | JavaScript | 11.4k | 2026-07-18 |
+| [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | GKD 第三方订阅规则 | TypeScript | 11.9k | 2026-07-19 |
+| [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) | A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) | JavaScript | 11.4k | 2026-07-19 |
 | [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) | 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式 | — | 10.6k | 2026-07-18 |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | Codex Dream Skin | JavaScript | 9.6k | 2026-07-18 |
-| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | JavaScript | 9.0k | 2026-07-18 |
-| [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 \| 广谱注入 Chromium/V8 的通用修改器 | C++ | 8.3k | 2026-07-18 |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | Codex Dream Skin | JavaScript | 9.8k | 2026-07-19 |
+| [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) | A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai | JavaScript | 9.0k | 2026-07-19 |
+| [std-microblock/chromatic](https://github.com/std-microblock/chromatic) | Universal modifier for Chromium/V8 \| 广谱注入 Chromium/V8 的通用修改器 | C++ | 8.3k | 2026-07-19 |
 | [217heidai/adblockfilters](https://github.com/217heidai/adblockfilters) | 去广告合并规则，每8个小时更新一次。 | Python | 7.3k | 2026-07-18 |
-| [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。 | TypeScript | 5.4k | 2026-07-18 |
+| [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。 | TypeScript | 5.5k | 2026-07-18 |
 | [muety/wakapi](https://github.com/muety/wakapi) | 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics | Go | 4.4k | 2026-07-18 |
 | [gaboolic/rime-frost](https://github.com/gaboolic/rime-frost) | 白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。 | Lua | 3.5k | 2026-07-18 |
 | [vrm-c/UniVRM](https://github.com/vrm-c/UniVRM) | UniVRM is a gltf-based VRM format implementation for Unity. English is here https://vrm.dev/en/ . 日本語 はこちら https://vrm.dev/ | C# | 3.3k | 2026-07-18 |
@@ -644,12 +647,12 @@
 | [xinggsf/Adblock-Plus-Rule](https://github.com/xinggsf/Adblock-Plus-Rule) | uBlock Origin 乘风广告过滤规则 | Batchfile | 2.4k | 2026-07-18 |
 | [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) |  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告 | Adblock Filter List | 1.4k | 2026-07-18 |
 | [zhongyang219/TrafficMonitorPlugins](https://github.com/zhongyang219/TrafficMonitorPlugins) | 用于TrafficMonitor的插件 | C++ | 957 | 2026-07-17 |
-| [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) | 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。 | JavaScript | 592 | 2026-07-18 |
+| [V-IOLE-T/tab-harbor](https://github.com/V-IOLE-T/tab-harbor) | 一个更安静的新标签页工作台，把打开中的标签、快捷链接、待读和轻量待办收进同一个顺手的空间里。 | JavaScript | 594 | 2026-07-18 |
 | [anka-afk/astrbot_plugin_meme_manager](https://github.com/anka-afk/astrbot_plugin_meme_manager) | 一个功能强大的 AstrBot 表情包管理插件，支持 🤖 AI 智能发送表情、🌐 WebUI 管理界面、☁️ 云端同步等特性。 | Python | 351 | 2026-07-18 |
 | [zhongyang219/TrafficMonitorSkin](https://github.com/zhongyang219/TrafficMonitorSkin) | TrafficMonitor的皮肤仓库 | — | 215 | 2026-07-18 |
 | [IronKinoko/agefans-enhance](https://github.com/IronKinoko/agefans-enhance) | 增强 agefans 等网站播放功能，实现自动换集、画中画、历史记录、断点续播、弹幕等功能 | TypeScript | 171 | 2026-07-16 |
-| [hackclub/hackatime](https://github.com/hackclub/hackatime) | Free, open source, WakaTime-compatible coding time tracker | Ruby | 156 | 2026-07-18 |
-| [BetterNCM/BetterNCM-Plugins](https://github.com/BetterNCM/BetterNCM-Plugins) | BetterNCM 的插件库 | JavaScript | 146 | 2026-07-17 |
+| [hackclub/hackatime](https://github.com/hackclub/hackatime) | Free, open source, WakaTime-compatible coding time tracker | Ruby | 157 | 2026-07-18 |
+| [BetterNCM/BetterNCM-Plugins](https://github.com/BetterNCM/BetterNCM-Plugins) | BetterNCM 的插件库 | JavaScript | 146 | 2026-07-18 |
 | [mo-jinran/Taskbar-Lyrics](https://github.com/mo-jinran/Taskbar-Lyrics) | BetterNCM插件，在任务栏上嵌入歌词，目前仅建议Windows 11 | C++ | 146 | 2026-06-22 |
 | [apoint123/inflink-rs](https://github.com/apoint123/inflink-rs) | 为网易云音乐提供 SMTC 和 Discord RPC 支持 | TypeScript | 123 | 2026-07-18 |
 | [bemaru/trafficmonitor-ai-usage-plugin](https://github.com/bemaru/trafficmonitor-ai-usage-plugin) | TrafficMonitor plugin that shows Claude and Codex account usage in the Windows taskbar. | C++ | 44 | 2026-07-17 |
@@ -680,22 +683,22 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.0k | 2026-07-18 |
-| [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++ | C++ | 50.2k | 2026-07-18 |
+| [microsoft/markitdown](https://github.com/microsoft/markitdown) | Python tool for converting files and office documents to Markdown. | Python | 167.1k | 2026-07-19 |
+| [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++ | C++ | 50.2k | 2026-07-19 |
 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. | C++ | 48.9k | 2026-07-18 |
 | [nothings/stb](https://github.com/nothings/stb) | stb single-file public domain libraries for C/C++ | C | 34.2k | 2026-07-18 |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | CMake | 27.3k | 2026-07-18 |
 | [upx/upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | C++ | 17.7k | 2026-07-18 |
 | [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) | A cross-platform, safe, pure-Rust graphics API. | Rust | 17.6k | 2026-07-18 |
-| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | A C++ header-only HTTP/HTTPS server and client library | C++ | 16.7k | 2026-07-18 |
+| [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib) | A C++ header-only HTTP/HTTPS server and client library | C++ | 16.7k | 2026-07-19 |
 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。 | TypeScript | 14.6k | 2026-07-18 |
 | [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) | Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ | Python | 14.2k | 2026-07-18 |
 | [cesanta/mongoose](https://github.com/cesanta/mongoose) | Embedded web server, with TCP/IP network stack, MQTT and Websocket | C | 12.9k | 2026-07-17 |
 | [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) | — | Shell | 11.3k | 2026-07-18 |
 | [mackron/miniaudio](https://github.com/mackron/miniaudio) | Audio playback and capture library written in C, in a single source file. | C | 7.0k | 2026-07-18 |
-| [mumuy/relationship](https://github.com/mumuy/relationship) | 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. | JavaScript | 3.7k | 2026-07-15 |
+| [mumuy/relationship](https://github.com/mumuy/relationship) | 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. | JavaScript | 3.7k | 2026-07-19 |
 | [UlionTse/translators](https://github.com/UlionTse/translators) | Translators is a library that aims to bring free, multiple, enjoyable translations to individuals and students in Python.  「翻译官」是一个旨在用Python为个人和学生带来免费、多样、愉快翻译的库。 | Python | 2.7k | 2026-07-17 |
-| [mborgerding/kissfft](https://github.com/mborgerding/kissfft) | a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid | C | 2.0k | 2026-07-15 |
+| [mborgerding/kissfft](https://github.com/mborgerding/kissfft) | a Fast Fourier Transform (FFT) library that tries to Keep it Simple, Stupid | C | 2.0k | 2026-07-18 |
 | [damnever/pigar](https://github.com/damnever/pigar) | :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL) | Python | 1.8k | 2026-07-15 |
 | [GTRONICK/QSS](https://github.com/GTRONICK/QSS) | QT Style Sheets templates | — | 1.6k | 2026-07-16 |
 | [sudoevolve/EUI-NEO](https://github.com/sudoevolve/EUI-NEO) | EUI-NEO is a cross-platform, high-performance, low-overhead C++17 GPUI framework | C | 1.6k | 2026-07-18 |
@@ -706,7 +709,7 @@
 | [Alexhuszagh/BreezeStyleSheets](https://github.com/Alexhuszagh/BreezeStyleSheets) | Breeze/BreezeDark-like Qt StyleSheets  | Python | 660 | 2026-07-10 |
 | [kwhat/libuiohook](https://github.com/kwhat/libuiohook) | A multi-platform C library to provide global keyboard and mouse hooks from userland. | C | 611 | 2026-07-04 |
 | [benikabocha/saba](https://github.com/benikabocha/saba) | OpenGL Viewer (OBJ PMD PMX) | C++ | 504 | 2026-07-03 |
-| [mortspace/playcaptcha](https://github.com/mortspace/playcaptcha) | A claw-machine human check for React — grab the right toy to prove you're human | TypeScript | 445 | 2026-07-18 |
+| [mortspace/playcaptcha](https://github.com/mortspace/playcaptcha) | A claw-machine human check for React — grab the right toy to prove you're human | TypeScript | 446 | 2026-07-18 |
 | [VOICEVOX/voicevox_vvm](https://github.com/VOICEVOX/voicevox_vvm) | VOICEVOX用のVVMファイルを管理・公開 | Python | 14 | 2026-07-06 |
 | [wyh1359498723/SystemAudioSpectrum](https://github.com/wyh1359498723/SystemAudioSpectrum) | 基于 Qt + WASAPI + kissfft 的系统音频频谱可视化工具。实时从 Windows 默认输出设备进行环回采集，执行 0–20kHz 频率范围的 FFT 分析，并以 20 段彩色柱状图在独立渲染线程中动态绘制，主线程仅用于窗口显示（不参与音频处理与绘制）。 | C++ | 2 | 2026-04-21 |
 
@@ -731,11 +734,11 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 50.1k | 2026-07-18 |
-| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | TypeScript | 42.5k | 2026-07-18 |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 50.1k | 2026-07-19 |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | The open-source AI voice studio. Clone, dictate, create. | TypeScript | 42.8k | 2026-07-19 |
 | [2noise/ChatTTS](https://github.com/2noise/ChatTTS) | A generative speech model for daily dialogue. | Python | 39.6k | 2026-07-18 |
 | [w-okada/voice-changer](https://github.com/w-okada/voice-changer) | リアルタイムボイスチェンジャー Realtime Voice Changer | Python | 20.6k | 2026-07-18 |
-| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages | C++ | 13.6k | 2026-07-18 |
+| [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) | Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages | C++ | 13.6k | 2026-07-19 |
 | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | https://hf.co/hexgrad/Kokoro-82M | JavaScript | 8.0k | 2026-07-18 |
 | [jianchang512/ChatTTS-ui](https://github.com/jianchang512/ChatTTS-ui) | 一个简单的本地网页界面，使用ChatTTS将文字合成为语音，同时支持对外提供API接口。A simple native web interface that uses ChatTTS to synthesize text into speech, along with support for external API interfaces. | Python | 7.6k | 2026-07-18 |
 | [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) | eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. | C | 6.7k | 2026-07-18 |
@@ -765,37 +768,37 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | DigitalPlat FreeDomain: Free Domain For Everyone | — | 186.6k | 2026-07-18 |
+| [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) | DigitalPlat FreeDomain: Free Domain For Everyone | — | 186.7k | 2026-07-19 |
 | [vitejs/vite](https://github.com/vitejs/vite) | Next generation frontend tooling. It's fast! | TypeScript | 82.0k | 2026-07-18 |
-| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-18 |
+| [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) | :zap: Dynamically generated stats for your github readmes | JavaScript | 79.8k | 2026-07-19 |
 | [slidevjs/slidev](https://github.com/slidevjs/slidev) | Presentation Slides for Developers | TypeScript | 47.7k | 2026-07-18 |
 | [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) | 🧡 Everything is RSSible | TypeScript | 45.3k | 2026-07-18 |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | TypeScript | 36.1k | 2026-07-18 |
+| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | Write HTML. Render video. Built for agents. | TypeScript | 36.1k | 2026-07-19 |
 | [soxoj/maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites | Python | 35.5k | 2026-07-18 |
 | [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) | 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 多个解析 IP 的网站 ~ | Go | 28.0k | 2026-07-18 |
 | [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | The #1 AI Harness for Building Resumes, PDFs, Cover Letters & more, locally with 100+ LLMs support. | TypeScript | 27.8k | 2026-07-18 |
 | [badges/shields](https://github.com/badges/shields) | Concise, consistent, and legible badges in SVG and raster format | JavaScript | 26.9k | 2026-07-18 |
-| [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done. | TypeScript | 26.9k | 2026-07-18 |
+| [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) | :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done. | TypeScript | 26.9k | 2026-07-19 |
 | [getzola/zola](https://github.com/getzola/zola) | A fast static site generator in a single binary with everything built-in. https://www.getzola.org | Rust | 17.2k | 2026-07-18 |
 | [soybeanjs/soybean-admin](https://github.com/soybeanjs/soybean-admin) | A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite7, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite8, TypeScript, Pinia, NaiveUI 和 UnoCSS。 | TypeScript | 14.6k | 2026-07-18 |
-| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Showcase your skills on your Github readme or resumé with ease ✨ | SVG | 12.8k | 2026-07-18 |
+| [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) | Showcase your skills on your Github readme or resumé with ease ✨ | SVG | 12.8k | 2026-07-19 |
 | [notionnext-org/NotionNext](https://github.com/notionnext-org/NotionNext) | Turn your Notion workspace into a fast, customizable website. Built with Next.js + Notion API, with multi-platform deployment and no self-hosted server required. | JavaScript | 11.7k | 2026-07-18 |
 | [stevenjoezhang/live2d-widget](https://github.com/stevenjoezhang/live2d-widget) | 把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ \| Live2D widget for web platform | TypeScript | 10.8k | 2026-07-18 |
 | [dicebear/dicebear](https://github.com/dicebear/dicebear) | DiceBear is an avatar library for designers and developers. 🌍 | Vue | 9.1k | 2026-07-18 |
 | [hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy) | github release、archive以及项目文件的加速项目 | Python | 8.9k | 2026-07-18 |
 | [zyronon/TypeWords](https://github.com/zyronon/TypeWords) | Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； | CSS | 8.7k | 2026-07-18 |
 | [Thysrael/Horizon](https://github.com/Thysrael/Horizon) | 📡 Your own AI-powered news radar. Generates daily briefings in English & Chinese. \| 用 AI 构建你专属的新闻雷达 | Python | 8.3k | 2026-07-18 |
-| [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | :cloud: Sync your bookmarks privately across browsers and devices | JavaScript | 8.2k | 2026-07-18 |
+| [floccusaddon/floccus](https://github.com/floccusaddon/floccus) | :cloud: Sync your bookmarks privately across browsers and devices | JavaScript | 8.2k | 2026-07-19 |
 | [jarun/buku](https://github.com/jarun/buku) | :bookmark: Personal mini-web in text | Python | 7.2k | 2026-07-18 |
 | [Platane/snk](https://github.com/Platane/snk) | 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif | TypeScript | 6.0k | 2026-07-18 |
-| [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) | ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial) | HTML | 5.5k | 2026-07-18 |
-| [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。 | TypeScript | 5.4k | 2026-07-18 |
+| [donlon/cloudflare-error-page](https://github.com/donlon/cloudflare-error-page) | ✅Browser ❌Cloudflare ✅Host — Customized Cloudflare error page generator. (unofficial) | HTML | 5.5k | 2026-07-19 |
+| [xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader) | Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more. 浏览器扩展程序，批量下载 Pixiv 上的插画和小说。过滤作品、下载时重命名、转换动态图片等。 | TypeScript | 5.5k | 2026-07-18 |
 | [lizhipay/acg-faka](https://github.com/lizhipay/acg-faka) | 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 | PHP | 5.3k | 2026-07-18 |
 | [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) | MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API. | JavaScript | 5.0k | 2026-07-18 |
 | [saicaca/fuwari](https://github.com/saicaca/fuwari) | ✨A static blog template built with Astro.  | Astro | 4.8k | 2026-07-18 |
 | [muety/wakapi](https://github.com/muety/wakapi) | 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics | Go | 4.4k | 2026-07-18 |
 | [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) | This GitHub action helps to add cool dev metrics to your github profile Readme | Python | 4.0k | 2026-07-18 |
-| [mumuy/relationship](https://github.com/mumuy/relationship) | 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. | JavaScript | 3.7k | 2026-07-15 |
+| [mumuy/relationship](https://github.com/mumuy/relationship) | 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system. | JavaScript | 3.7k | 2026-07-19 |
 | [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) | 基于RSS自动追番、订阅、下载、刮削、洗版 | Java | 3.4k | 2026-07-18 |
 | [journey-ad/Moe-Counter](https://github.com/journey-ad/Moe-Counter) | Moe counter badge with multiple themes! - 多种风格可选的萌萌计数器 | JavaScript | 3.0k | 2026-07-17 |
 | [joelshepherd/tabliss](https://github.com/joelshepherd/tabliss) | A beautiful, customisable New Tab page for Firefox, Chrome, and Edge. | TypeScript | 2.8k | 2026-07-14 |
@@ -803,25 +806,25 @@
 | [Meekdai/Gmeek](https://github.com/Meekdai/Gmeek) | Gmeek is a Blog All in Github | Python | 2.3k | 2026-07-18 |
 | [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) | 🌌  Your Self-hosted Comment System. \| 自托管评论系统 | Go | 2.3k | 2026-07-18 |
 | [zombieFox/nightTab](https://github.com/zombieFox/nightTab) | A neutral new tab page accented with a chosen colour. Customise the layout, style, background and bookmarks with nightTab. | JavaScript | 2.0k | 2026-07-15 |
-| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-18 |
-| [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) | 流萤，清新美观的 Astro 静态博客主题模板 \| Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari. | Astro | 1.6k | 2026-07-18 |
+| [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) | This GitHub Action creates a GitHub contribution calendar on a 3D profile image. | TypeScript | 1.7k | 2026-07-19 |
+| [CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly) | 流萤，清新美观的 Astro 静态博客主题模板 \| Firefly, fresh and aesthetic Astro blog theme  template, Secondary development based on Fuwari. | Astro | 1.7k | 2026-07-18 |
 | [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) | Spreading Thankfulness in Open Source.  | Python | 1.3k | 2026-06-30 |
 | [yui540/Cowardly-Witch](https://github.com/yui540/Cowardly-Witch) | 『臆病な魔女は、Webサイトに魔法をかけた。』 | CSS | 1.0k | 2026-07-17 |
-| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 895 | 2026-07-18 |
-| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 848 | 2026-07-16 |
+| [czl9707/gh-space-shooter](https://github.com/czl9707/gh-space-shooter) | Visualizes GitHub contribution graphs as Space Shooter! | Python | 893 | 2026-07-18 |
+| [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout) | Generate a Breakout game SVG from a GitHub user's contributions graph | TypeScript | 849 | 2026-07-18 |
 | [setube/stackprism](https://github.com/setube/stackprism) | StackPrism是一款用于检测网页技术栈的浏览器插件。 | TypeScript | 785 | 2026-07-17 |
 | [505e06b2/Image-to-Braille](https://github.com/505e06b2/Image-to-Braille) | Give it an image, and it will become unicode braille | JavaScript | 782 | 2026-07-07 |
 | [KunMoe/kun-touchgal-next](https://github.com/KunMoe/kun-touchgal-next) | TouchGal 是一个一站式 Galgame 文化社区。提供Galgame 论坛、Galgame 下载等服务。承诺永久免费, 高质量。为Galgame 爱好者提供一片净土！ | TypeScript | 686 | 2026-07-18 |
-| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 594 | 2026-07-18 |
+| [hacxy/l2d-widget](https://github.com/hacxy/l2d-widget) | Drop a Live2D character onto any web page. One function call, zero framework dependencies. | TypeScript | 595 | 2026-07-18 |
 | [yin-yizhen/sonic-topography](https://github.com/yin-yizhen/sonic-topography) | 随音乐产生交互的棋盘式海浪，支持网易云搜索 | TypeScript | 523 | 2026-07-18 |
-| [mortspace/playcaptcha](https://github.com/mortspace/playcaptcha) | A claw-machine human check for React — grab the right toy to prove you're human | TypeScript | 445 | 2026-07-18 |
+| [mortspace/playcaptcha](https://github.com/mortspace/playcaptcha) | A claw-machine human check for React — grab the right toy to prove you're human | TypeScript | 446 | 2026-07-18 |
 | [UnluckyNinja/SBTI-test](https://github.com/UnluckyNinja/SBTI-test) | 注意建立这个repo只是因为网页自身就是全部源码，原作者并未声明license所以本repo也不包含license，一切行为请自行斟酌，不要给原作者添麻烦。 原作者：B站@蛆肉儿串儿 | HTML | 432 | 2026-07-17 |
 | [lizhipay/faka](https://github.com/lizhipay/faka) | 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码 | PHP | 425 | 2026-06-27 |
 | [yui540/comimi](https://github.com/yui540/comimi) | Open-source comic reader library for JS/TS | TypeScript | 402 | 2026-07-18 |
 | [lutinglt/gitea-github-theme](https://github.com/lutinglt/gitea-github-theme) | Exquisite GitHub style Gitea themes | TypeScript | 326 | 2026-07-18 |
 | [ziadOUA/m3-Markdown-Badges](https://github.com/ziadOUA/m3-Markdown-Badges) | 🏅 A Material You inspired markdown badge collection. | Python | 278 | 2026-07-10 |
-| [bye1158/Card-Tab](https://github.com/bye1158/Card-Tab) | ★一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理 | JavaScript | 269 | 2026-07-18 |
-| [debbide/nav-dashboard](https://github.com/debbide/nav-dashboard) | — | JavaScript | 229 | 2026-07-18 |
+| [bye1158/Card-Tab](https://github.com/bye1158/Card-Tab) | ★一个部署在CF的轻量化导航页面，可移动卡片式书签，方便管理 | JavaScript | 271 | 2026-07-18 |
+| [debbide/nav-dashboard](https://github.com/debbide/nav-dashboard) | — | JavaScript | 232 | 2026-07-18 |
 | [amruthpillai/amruthpillai](https://github.com/amruthpillai/amruthpillai) | Everyone needs their own little spot on the interwebs, and this is mine. Welcome to my resume, on the web! | Astro | 187 | 2026-07-04 |
 | [pixiv-cat/pixivcat-backend](https://github.com/pixiv-cat/pixivcat-backend) | Pixiv.cat backend server | JavaScript | 93 | 2026-07-14 |
 | [magicuidesign/blog-template](https://github.com/magicuidesign/blog-template) | A minimal blog template built using Next.js. | TypeScript | 88 | 2026-07-04 |
@@ -833,7 +836,7 @@
 | [Qi-Zhan/BrowsingYearReview](https://github.com/Qi-Zhan/BrowsingYearReview) | 快来生成你的浏览记录年度总结! | JavaScript | 18 | 2026-03-26 |
 | [qtqz/natural-falling-effect](https://github.com/qtqz/natural-falling-effect) | 带来一年四季的景色，让你的网页飘落花瓣树叶下雨下雪。Make your webpage fall petals and leaves, or rain and snow. | JavaScript | 10 | 2026-06-14 |
 | [SomeOvO/Bmoji](https://github.com/SomeOvO/Bmoji) | Bilibili 表情收集工具+网页 | Vue | 9 | 2026-07-16 |
-| [Jursin/Blog](https://github.com/Jursin/Blog) | 使用 VitePress 构建生成的博客网站 | Markdown | 2 | 2026-07-16 |
+| [Jursin/Blog](https://github.com/Jursin/Blog) | 使用 VitePress 构建生成的博客网站 | Markdown | 2 | 2026-07-18 |
 | [WEP-56/Ephem-cli](https://github.com/WEP-56/Ephem-cli) | 方便早恋小情侣私密聊天的tui聊天室 | TypeScript | 2 | 2026-06-27 |
 | [smart-developer1791/go-fiber-auth-sakura](https://github.com/smart-developer1791/go-fiber-auth-sakura) | 🌸 Sakura Dreams — Tranquil Japanese 3D authentication with falling cherry blossom petals, moonlit night, floating lanterns, and zen aesthetics. Fully responsive! Go Fiber + GORM + SQLite + Alpine.js + Tailwind CSS. | HTML | 1 | 2026-04-09 |
 | [WEP-56/taoran-blog](https://github.com/WEP-56/taoran-blog) | — | TypeScript | 1 | 2026-07-11 |
@@ -849,7 +852,7 @@
 |---|---|---|---|---|
 | [rocksdanister/lively](https://github.com/rocksdanister/lively) | Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3. | C# | 19.2k | 2026-07-18 |
 | [notscuffed/repkg](https://github.com/notscuffed/repkg) | Wallpaper engine PKG extractor/TEX to image converter | C# | 3.6k | 2026-07-18 |
-| [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) | Mechvibes | JavaScript | 2.3k | 2026-07-18 |
+| [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) | Mechvibes | JavaScript | 2.3k | 2026-07-19 |
 | [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose) | Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers. | C# | 1.4k | 2026-07-18 |
 | [he55/DreamScene2](https://github.com/he55/DreamScene2) | 一个小而快并且功能强大的 Windows 动态桌面软件 | C# | 1.3k | 2026-07-14 |
 | [Stefan-Z-Camilleri-zz/Windows-Cursor-Hider](https://github.com/Stefan-Z-Camilleri-zz/Windows-Cursor-Hider) | A small script written in AutoHotKey that hides the windows mouse cursor when a user starts typing, and shows it again when the user is done. | AutoHotkey | 154 | 2026-05-19 |
@@ -864,22 +867,22 @@
 
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
-| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 136.5k | 2026-07-18 |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 132.2k | 2026-07-18 |
-| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118.4k | 2026-07-18 |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. | TypeScript | 79.4k | 2026-07-18 |
-| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 75.3k | 2026-07-18 |
-| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | C | 73.9k | 2026-07-18 |
+| [microsoft/PowerToys](https://github.com/microsoft/PowerToys) | Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows | C | 136.6k | 2026-07-19 |
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience | TypeScript | 132.3k | 2026-07-19 |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. | Rust | 118.5k | 2026-07-19 |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen & 20+ CLIs via BYOK. | TypeScript | 79.5k | 2026-07-19 |
+| [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) | The open-source CapCut alternative | TypeScript | 75.4k | 2026-07-19 |
+| [obsproject/obs-studio](https://github.com/obsproject/obs-studio) | OBS Studio - Free and open source software for live streaming and screen recording | C | 73.9k | 2026-07-19 |
 | [marktext/marktext](https://github.com/marktext/marktext) | 📝A simple and elegant markdown editor, available for Linux, macOS and Windows. | TypeScript | 58.9k | 2026-07-18 |
-| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 | TypeScript | 52.2k | 2026-07-18 |
-| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 50.1k | 2026-07-18 |
+| [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) | 一个基于 Electron 的音乐软件 | TypeScript | 52.2k | 2026-07-19 |
+| [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) | Open-Source Frontier Voice AI | Python | 50.1k | 2026-07-19 |
 | [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) | An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis. | C++ | 48.9k | 2026-07-18 |
 | [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) | OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。 | Python | 46.1k | 2026-07-18 |
 | [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) | 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。 | C++ | 45.3k | 2026-07-18 |
-| [aria2/aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | C++ | 41.5k | 2026-07-18 |
+| [aria2/aria2](https://github.com/aria2/aria2) | aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink. | C++ | 41.5k | 2026-07-19 |
 | [nicolargo/glances](https://github.com/nicolargo/glances) | Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. | Python | 33.1k | 2026-07-18 |
-| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 32.1k | 2026-07-18 |
-| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | Dart | 27.8k | 2026-07-18 |
+| [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) | OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. | TypeScript | 32.1k | 2026-07-19 |
+| [Predidit/Kazumi](https://github.com/Predidit/Kazumi) | 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。 | Dart | 27.8k | 2026-07-19 |
 | [microsoft/vcpkg](https://github.com/microsoft/vcpkg) | C++ Library Manager for Windows, Linux, and MacOS | CMake | 27.3k | 2026-07-18 |
 | [microsoft/winget-cli](https://github.com/microsoft/winget-cli) | WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface). | C++ | 26.2k | 2026-07-18 |
 | [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) |   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. | Go | 25.3k | 2026-07-18 |
@@ -889,18 +892,18 @@
 | [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) | Sandboxie Plus & Classic | C | 18.9k | 2026-07-18 |
 | [hellzerg/optimizer](https://github.com/hellzerg/optimizer) | The finest Windows Optimizer | C# | 18.3k | 2026-07-18 |
 | [upx/upx](https://github.com/upx/upx) | UPX - the Ultimate Packer for eXecutables | C++ | 17.7k | 2026-07-18 |
-| [rendercv/rendercv](https://github.com/rendercv/rendercv) | Resume builder for academics and engineers | Python | 17.1k | 2026-07-18 |
+| [rendercv/rendercv](https://github.com/rendercv/rendercv) | Resume builder for academics and engineers | Python | 17.1k | 2026-07-19 |
 | [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager) | A Download Manager that speeds up your downloads | Kotlin | 16.7k | 2026-07-18 |
-| [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) | 🎮 An open-source game speed modifier. | TypeScript | 16.5k | 2026-07-18 |
-| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | Dart | 16.2k | 2026-07-18 |
+| [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy) | 🎮 An open-source game speed modifier. | TypeScript | 16.5k | 2026-07-19 |
+| [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) | PiliPlus | Dart | 16.2k | 2026-07-19 |
 | [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) | 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制 | Vue | 16.2k | 2026-07-18 |
-| [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com | C | 15.4k | 2026-07-18 |
+| [winsiderss/systeminformer](https://github.com/winsiderss/systeminformer) | A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com | C | 15.4k | 2026-07-19 |
 | [musescore/MuseScore](https://github.com/musescore/MuseScore) | MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests! | C++ | 14.9k | 2026-07-18 |
 | [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) | A cross-platform, reimplementation of Notepad++ | C++ | 14.4k | 2026-07-18 |
 | [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) | CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. | Go | 14.2k | 2026-07-18 |
 | [YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool) | Office Tool Plus localization projects. | PowerShell | 13.8k | 2026-07-18 |
 | [doocs/md](https://github.com/doocs/md) | ✍ WeChat Markdown Editor \| 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 | TypeScript | 13.0k | 2026-07-18 |
-| [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | C++ | 12.4k | 2026-07-18 |
+| [HIllya51/LunaTranslator](https://github.com/HIllya51/LunaTranslator) | 视觉小说翻译器 / Visual Novel Translator | C++ | 12.4k | 2026-07-19 |
 | [moesnow/March7thAssistant](https://github.com/moesnow/March7thAssistant) | 崩坏：星穹铁道全自动 三月七小助手 | Python | 11.0k | 2026-07-18 |
 | [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) | 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 \| automate mouse clicks and keyboard input | Python | 10.4k | 2026-07-18 |
 | [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | Modern protocol-side framework based on NTQQ | TypeScript | 9.9k | 2026-07-18 |
@@ -910,8 +913,8 @@
 | [henrypp/simplewall](https://github.com/henrypp/simplewall) | Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer. | C | 8.6k | 2026-07-18 |
 | [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) | Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions. | TypeScript | 8.6k | 2026-07-18 |
 | [jarun/buku](https://github.com/jarun/buku) | :bookmark: Personal mini-web in text | Python | 7.2k | 2026-07-18 |
-| [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) | 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves | Python | 6.8k | 2026-07-18 |
-| [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 | C# | 6.5k | 2026-07-18 |
+| [ok-oldking/ok-wuthering-waves](https://github.com/ok-oldking/ok-wuthering-waves) | 鸣潮 后台自动战斗 自动刷声骸 一键日常  Automation for Wuthering Waves | Python | 6.8k | 2026-07-19 |
+| [LorisYounger/VPet](https://github.com/LorisYounger/VPet) | 虚拟桌宠模拟器 一个开源的桌宠软件, 可以内置到任何WPF应用程序 | C# | 6.5k | 2026-07-19 |
 | [HaujetZhao/CapsWriter-Offline](https://github.com/HaujetZhao/CapsWriter-Offline) | PC 端语音输入工具，离线识别，高准确率、低延迟，支持热词、LLM润色。按住CapsLock或鼠标侧键X2说话，松开自动上屏。 | Python | 6.3k | 2026-07-18 |
 | [Diorser/LiteMonitor](https://github.com/Diorser/LiteMonitor) | 一款轻量级、高度可定制的 Windows桌面和任务栏硬件性能监控工具，支持监测 CPU、GPU、内存、磁盘、网速、FPS 计数、插件扩展及内存清理。A lightweight, customizable hardware monitor for the Windows desktop & taskbar. Features CPU/GPU/RAM/Network monitoring, FPS counter, plugin support, and memory optimization. | C# | 5.8k | 2026-07-18 |
 | [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) | Windows/macOS/Linux GUI client for GIT users | C# | 5.5k | 2026-07-18 |
@@ -920,7 +923,7 @@
 | [mediacms-io/mediacms](https://github.com/mediacms-io/mediacms) | MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API. | JavaScript | 5.0k | 2026-07-18 |
 | [indiff/qttabbar](https://github.com/indiff/qttabbar) | QTTabBar is a small tool that allows you to use tab multi label function in Windows Explorer.   https://www.yuque.com/indiff/qttabbar | C# | 4.8k | 2026-07-18 |
 | [UB-Mannheim/tesseract](https://github.com/UB-Mannheim/tesseract) | Tesseract Open Source OCR Engine (main repository) | C++ | 4.5k | 2026-07-18 |
-| [vladelaina/Catime](https://github.com/vladelaina/Catime) | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g | C | 4.5k | 2026-07-18 |
+| [vladelaina/Catime](https://github.com/vladelaina/Catime) | 💌A tiny (995KB) but mighty timer in **pure C** ! — almost no memory usage!❤️‍🔥 Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%) 💘 Don't be shy, join here🧸: https://discord.com/invite/W3tW2gtp6g | C | 4.5k | 2026-07-19 |
 | [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) | Double Commander is a free cross platform open source file manager with two panels side by side. | Pascal | 4.3k | 2026-07-18 |
 | [mausimus/ShaderGlass](https://github.com/mausimus/ShaderGlass) | Overlay for running GPU shaders on top of Windows desktop and Wine | C++ | 4.1k | 2026-07-18 |
 | [notscuffed/repkg](https://github.com/notscuffed/repkg) | Wallpaper engine PKG extractor/TEX to image converter | C# | 3.6k | 2026-07-18 |
@@ -928,51 +931,51 @@
 | [shinyflvre/Mate-Engine](https://github.com/shinyflvre/Mate-Engine) | A free Desktop Mate alternative with a lightweight interface and custom VRM support, though with more features. | ShaderLab | 3.4k | 2026-07-18 |
 | [abgox/InputTip](https://github.com/abgox/InputTip) | 规则驱动的输入法状态管理器 · 即时 · 强大 · 高效 | AutoHotkey | 3.3k | 2026-07-18 |
 | [any-listen/any-listen](https://github.com/any-listen/any-listen) | A cross-platform private music playback service | TypeScript | 3.2k | 2026-07-18 |
-| [hardentools/hardentools](https://github.com/hardentools/hardentools) | Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. | Go | 3.1k | 2026-07-12 |
-| [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) | Wow. Yet another Pixiv client! | C# | 3.0k | 2026-07-18 |
-| [Veirt/weathr](https://github.com/Veirt/weathr) | a terminal weather app with ascii animation | Rust | 2.9k | 2026-07-17 |
-| [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! | C# | 2.8k | 2026-07-17 |
+| [hardentools/hardentools](https://github.com/hardentools/hardentools) | Hardentools simply reduces the attack surface on Microsoft Windows computers by disabling low-hanging fruit risky features. | Go | 3.1k | 2026-07-18 |
+| [Pixeval/Pixeval](https://github.com/Pixeval/Pixeval) | Wow. Yet another Pixiv client! | C# | 3.0k | 2026-07-19 |
+| [Veirt/weathr](https://github.com/Veirt/weathr) | a terminal weather app with ascii animation | Rust | 2.9k | 2026-07-18 |
+| [w4po/ExplorerTabUtility](https://github.com/w4po/ExplorerTabUtility) | 🚀 Supercharge Windows 11's File Explorer: Auto-convert windows to tabs, duplicate tabs, reopen closed ones, and more! | C# | 2.8k | 2026-07-18 |
 | [martinrotter/rssguard](https://github.com/martinrotter/rssguard) | Feed reader (podcast player, basic XMPP client and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services. | C++ | 2.7k | 2026-07-18 |
 | [wood3n/biu](https://github.com/wood3n/biu) | Bilibili音乐播放器 | TypeScript | 2.6k | 2026-07-18 |
 | [ShirasawaSama/CefDetectorX](https://github.com/ShirasawaSama/CefDetectorX) | 【升级版-Electron】Check how many CEFs are on your computer. 检测你电脑上有几个CEF. | JavaScript | 2.5k | 2026-07-18 |
 | [Suxiaoqinx/Netease_url](https://github.com/Suxiaoqinx/Netease_url) | 网易云无损解析 | Python | 2.5k | 2026-07-18 |
 | [jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard) | TieZ 是一款基于 Tauri 的跨平台剪贴板管理器 / A cross-platform clipboard manager with history, tags, sync, privacy protection, and fast daily workflows. | TypeScript | 2.4k | 2026-07-18 |
 | [std-microblock/BetterNCM-Installer](https://github.com/std-microblock/BetterNCM-Installer) | 一键安装 Better 系软件 | Rust | 2.4k | 2026-07-18 |
-| [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) | Mechvibes | JavaScript | 2.3k | 2026-07-18 |
+| [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes) | Mechvibes | JavaScript | 2.3k | 2026-07-19 |
 | [jayfunc/BetterLyrics](https://github.com/jayfunc/BetterLyrics) | An elegant and deeply customizable lyrics visualizer & versatile music player, built with WinUI3/Win2D \| 一款优雅且高度自定义的歌词可视化与全能音乐播放应用，基于 WinUI3/Win2D 构建 | C# | 2.0k | 2026-07-18 |
 | [monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp) | Gopeed 百度网盘下载扩展。 | JavaScript | 2.0k | 2026-07-18 |
 | [zs1083339604/FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) | 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。 | Vue | 1.8k | 2026-07-18 |
 | [Taiizor/Sucrose](https://github.com/Taiizor/Sucrose) | Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers. | C# | 1.4k | 2026-07-18 |
-| [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) | Open source PDF editor. | C++ | 1.4k | 2026-07-16 |
+| [JakubMelka/PDF4QT](https://github.com/JakubMelka/PDF4QT) | Open source PDF editor. | C++ | 1.4k | 2026-07-18 |
 | [debugtheworldbot/keyStats](https://github.com/debugtheworldbot/keyStats) | Keyboard & Mouse Stats for macOS/Windows | Swift | 1.4k | 2026-07-18 |
 | [OpenListTeam/OpenList-Desktop](https://github.com/OpenListTeam/OpenList-Desktop) | A desktop application for OpenList | Vue | 1.3k | 2026-07-18 |
 | [he55/DreamScene2](https://github.com/he55/DreamScene2) | 一个小而快并且功能强大的 Windows 动态桌面软件 | C# | 1.3k | 2026-07-14 |
-| [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo) | 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown. | C# | 884 | 2026-07-18 |
-| [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) | 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automation, extensible WASM plugins. | C++ | 787 | 2026-07-18 |
+| [snownico0722/PaperTodo](https://github.com/snownico0722/PaperTodo) | 极简 Windows 桌面便签工具。让桌面上有几张安静、可用、不会打扰人的纸。WPF 原生，支持待办与 Markdown。——A minimalist Windows desktop sticky note tool. It puts a few quiet, usable, and unobtrusive sheets of paper on your desktop. Native WPF, with support for to-dos and Markdown. | C# | 887 | 2026-07-18 |
+| [sqmw/MFCMouseEffect](https://github.com/sqmw/MFCMouseEffect) | 跨平台鼠标特效与输入可视化引擎：点击/轨迹/滚轮/悬停等效果，输入指示器叠加层，手势→快捷键自动化映射，可扩展 WASM 插件。 Cross-platform mouse effects & input visualization engine: click/trail/scroll/hover effects, indicator overlays, gesture→hotkey automation, extensible WASM plugins. | C++ | 789 | 2026-07-19 |
 | [bbplayer-app/BBPlayer](https://github.com/bbplayer-app/BBPlayer) | 一款简约、好用的 BiliBili 音乐播放器。 | TypeScript | 783 | 2026-07-18 |
-| [Shasnow/StarRailAssistant](https://github.com/Shasnow/StarRailAssistant) | 崩坏星穹铁道自动化助手，帮你完成从启动到退出的崩铁日常 \| 多账号托管 \| 货币战争自动化 | Python | 759 | 2026-07-18 |
-| [Chunyu33/viap](https://github.com/Chunyu33/viap) | Windows应用管理、数据迁移工具。 | Rust | 754 | 2026-07-18 |
+| [Chunyu33/viap](https://github.com/Chunyu33/viap) | Windows应用管理、数据迁移工具。 | Rust | 764 | 2026-07-19 |
+| [Shasnow/StarRailAssistant](https://github.com/Shasnow/StarRailAssistant) | 崩坏星穹铁道自动化助手，帮你完成从启动到退出的崩铁日常 \| 多账号托管 \| 货币战争自动化 | Python | 760 | 2026-07-19 |
 | [stefankueng/BowPad](https://github.com/stefankueng/BowPad) | A simple and fast text editor with a ribbon UI | C++ | 752 | 2026-07-08 |
 | [widget-js/widgets](https://github.com/widget-js/widgets) | Desktop widgets for windows. built with vue3 | TypeScript | 727 | 2026-07-10 |
 | [rlv-dan/Snap2HTML](https://github.com/rlv-dan/Snap2HTML) | Generates directory listings contained in a single, app-like HTML file | HTML | 680 | 2026-07-17 |
-| [ifer47/markeron](https://github.com/ifer47/markeron) | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS, Linux. | TypeScript | 667 | 2026-07-18 |
+| [ifer47/markeron](https://github.com/ifer47/markeron) | Lightweight (~1.5 MB) open-source screen annotation with click-through mode and keyboard-first shortcuts. For demos, teaching, meetings & screen recording. Windows, macOS. | TypeScript | 672 | 2026-07-18 |
 | [user1121114685/Wallpaper_Engine](https://github.com/user1121114685/Wallpaper_Engine) | 一个便捷的创意工坊下载器 | Dart | 493 | 2026-07-14 |
 | [87owo/PYAS](https://github.com/87owo/PYAS) | Antivirus software written in Python and C++ that blocks threats through Machine Learning and behavioral monitoring! | Python | 441 | 2026-07-18 |
 | [xplusky/MoeLoaderP](https://github.com/xplusky/MoeLoaderP) | 🖼二次元图片下载器 Pics downloader for booru sites,Pixiv.net,Bilibili.com,Konachan.com,Yande.re , behoimi.org, safebooru, danbooru,Gelbooru,SankakuComplex,Kawainyan,MiniTokyo,e-shuushuu,Zerochan,WorldCosplay ,Yuriimg etc. | C# | 411 | 2026-07-14 |
 | [danielgatis/imgcat](https://github.com/danielgatis/imgcat) | Display images and gifs in your terminal. | Go | 404 | 2026-07-14 |
-| [Razviar/assetstudio](https://github.com/Razviar/assetstudio) | 2025 updated AssetStudio for Unity assets extraction | C# | 370 | 2026-07-17 |
+| [Razviar/assetstudio](https://github.com/Razviar/assetstudio) | 2025 updated AssetStudio for Unity assets extraction | C# | 372 | 2026-07-18 |
 | [AlexanderPro/SmartContextMenu](https://github.com/AlexanderPro/SmartContextMenu) | Smart context menu for all windows in the system | C# | 369 | 2026-07-13 |
 | [JiuLing-zhang/ComputerLock](https://github.com/JiuLing-zhang/ComputerLock) | 透明锁屏-锁屏时保持屏幕内容可见！防止误操作，保护隐私。适用于展示、娱乐和安全场景。 | — | 365 | 2026-07-15 |
+| [Rvosy/Sakura](https://github.com/Rvosy/Sakura) | 一个通用桌宠 Agent 框架，能导入自定义角色包，并让角色感知屏幕内容与系统事件，根据用户当前场景主动做出自然反应。 | Python | 332 | 2026-07-18 |
 | [Gaoyongxian666/CountBoard](https://github.com/Gaoyongxian666/CountBoard) | CountBoard 是一个基于Tkinter简单的,开源的桌面日程倒计时应用。 | Python | 332 | 2026-07-17 |
 | [baby7/agile-tiles](https://github.com/baby7/agile-tiles) | 【灵卡面板】一款Windows侧边栏应用，打造你的自定义专属摸鱼办公面板 | Python | 331 | 2026-07-12 |
-| [Rvosy/Sakura](https://github.com/Rvosy/Sakura) | 一个通用桌宠 Agent 框架，能导入自定义角色包，并让角色感知屏幕内容与系统事件，根据用户当前场景主动做出自然反应。 | Python | 331 | 2026-07-18 |
 | [Autumn-one/RedDot](https://github.com/Autumn-one/RedDot) | 在你的光标处显示中英文状态 | — | 191 | 2026-07-06 |
 | [luotengyuan/MyMapTools](https://github.com/luotengyuan/MyMapTools) | 由于工作中经常和地图、GPS坐标转换、GPS轨迹查看等内容相关，经常要借助一些在线网站和工具来查看地图和位置等，在一次偶然的机会中了解到一个[GMap.NET](https://github.com/radioman/greatmaps)开源的桌面地图库和基于GMap.NET实现的[MapDownloader](https://github.com/luxiaoxun/MapDownloader)地图下载工具，于是也想实现一个自己的地图相关工具，包含以下功能：  - 多种地图切换：Baidu(百度), Amap(高德), Tencent(腾讯), Tianditu(天地图), Ship, Google, Bing, OpenStreetMap, ArcGIS, Here(Nokia)等；  - 坐标拾取和坐标转换：GPS(WGS84)、火星坐标(GCJ02)、百度坐标(BD09)等相互转换，地理编码和反地理编码等；   - POI查询：通过百度地图、高德地图、腾讯地图等WebAPI搜索、保存POI数据；  - 地图下载、拼接：通过矩形、多边形、行政区划等方式下载、缓存地图数据或者拼接成大图；  - 导航路线搜索、导出：通过百度地图、高德地图、腾讯地图等WebAPI搜索、保存导航路线数据；  - 历史轨迹加载、回放：加载不同格式(csv/excel/nmea)轨迹数据，并可以回放、测试等；  - 实时轨迹显示：通过串口接收GPS信息显示在地图上； | C# | 176 | 2026-07-14 |
 | [assortest/Leigod_Auto_Pause](https://github.com/assortest/Leigod_Auto_Pause) | 雷神加速器自动暂停小插件，退出程序自动暂停加速。 | JavaScript | 161 | 2026-07-16 |
 | [Stefan-Z-Camilleri-zz/Windows-Cursor-Hider](https://github.com/Stefan-Z-Camilleri-zz/Windows-Cursor-Hider) | A small script written in AutoHotKey that hides the windows mouse cursor when a user starts typing, and shows it again when the user is done. | AutoHotkey | 154 | 2026-05-19 |
-| [PDF24/PDF24-Creator](https://github.com/PDF24/PDF24-Creator) | Repository for the free PDF24 Creator | — | 132 | 2026-07-17 |
+| [PDF24/PDF24-Creator](https://github.com/PDF24/PDF24-Creator) | Repository for the free PDF24 Creator | — | 132 | 2026-07-18 |
+| [NextWeb4/folder-locker](https://github.com/NextWeb4/folder-locker) | Offline folder locker with AES-256-GCM encrypted containers and optional Windows ACL quick lock | Python | 99 | 2026-07-19 |
 | [ProjectViVy/agent-diva](https://github.com/ProjectViVy/agent-diva) | Next Generation AI Agent(AKA:nanobot-rs-pro) | Rust | 58 | 2026-07-17 |
-| [NextWeb4/folder-locker](https://github.com/NextWeb4/folder-locker) | Offline folder locker with AES-256-GCM encrypted containers and optional Windows ACL quick lock | Python | 56 | 2026-07-18 |
 | [mityu/yoMMD](https://github.com/mityu/yoMMD) | Desktop mascot software powered by MMD for Windows and macOS | C++ | 44 | 2026-07-13 |
 | [ArsenTech/clamav-gui](https://github.com/ArsenTech/clamav-gui) | 🛡️ A GUI for ClamAV Antivirus that makes the Antivirus itself look professional and work exactly like ClamAV | TypeScript | 20 | 2026-07-17 |
 | [Qi-Zhan/BrowsingYearReview](https://github.com/Qi-Zhan/BrowsingYearReview) | 快来生成你的浏览记录年度总结! | JavaScript | 18 | 2026-03-26 |
@@ -990,27 +993,27 @@
 | Repository | Description | Language | Stars | Updated |
 |---|---|---|---|---|
 | [electron/electron](https://github.com/electron/electron) | :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS | C++ | 122.1k | 2026-07-18 |
-| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | JavaScript | 118.3k | 2026-07-18 |
-| [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | C++ | 114.3k | 2026-07-18 |
-| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108.1k | 2026-07-18 |
-| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 94.8k | 2026-07-18 |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | 87.6k | 2026-07-18 |
-| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 78.4k | 2026-07-18 |
-| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | TypeScript | 73.9k | 2026-07-18 |
-| [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 73.8k | 2026-07-18 |
-| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! | Python | 70.0k | 2026-07-18 |
-| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Clojure | 56.8k | 2026-07-18 |
+| [nodejs/node](https://github.com/nodejs/node) | Node.js JavaScript runtime ✨🐢🚀✨ | JavaScript | 118.3k | 2026-07-19 |
+| [godotengine/godot](https://github.com/godotengine/godot) | Godot Engine – Multi-platform 2D and 3D game engine | C++ | 114.3k | 2026-07-19 |
+| [fatedier/frp](https://github.com/fatedier/frp) | A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. | Go | 108.1k | 2026-07-19 |
+| [oven-sh/bun](https://github.com/oven-sh/bun) | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one | Rust | 94.9k | 2026-07-19 |
+| [astral-sh/uv](https://github.com/astral-sh/uv) | An extremely fast Python package and project manager, written in Rust. | Rust | 87.6k | 2026-07-19 |
+| [coder/code-server](https://github.com/coder/code-server) | VS Code in the browser | TypeScript | 78.4k | 2026-07-19 |
+| [apache/superset](https://github.com/apache/superset) | Apache Superset is a Data Visualization and Data Exploration Platform | Python | 73.9k | 2026-07-19 |
+| [python/cpython](https://github.com/python/cpython) | The Python programming language | Python | 73.8k | 2026-07-19 |
+| [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) | 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! | Python | 70.0k | 2026-07-19 |
+| [penpot/penpot](https://github.com/penpot/penpot) | Penpot: The open-source design platform for Product teams that need scalable collaboration. | Clojure | 56.8k | 2026-07-19 |
 | [vim/vim](https://github.com/vim/vim) | The official Vim repository | Vim Script | 40.6k | 2026-07-18 |
-| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | Rust | 33.9k | 2026-07-18 |
+| [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) | The user-friendly command line shell. | Rust | 33.9k | 2026-07-19 |
 | [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) | This project aims to enhance the working environment on Windows | C | 33.3k | 2026-07-18 |
 | [pydantic/pydantic](https://github.com/pydantic/pydantic) | Data validation using Python type hints | Python | 28.3k | 2026-07-18 |
-| [deskflow/deskflow](https://github.com/deskflow/deskflow) | Share a single keyboard and mouse between multiple computers. | C++ | 27.4k | 2026-07-18 |
+| [deskflow/deskflow](https://github.com/deskflow/deskflow) | Share a single keyboard and mouse between multiple computers. | C++ | 27.5k | 2026-07-19 |
 | [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) | Switch hosts quickly! | Rust | 27.0k | 2026-07-18 |
-| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 23.8k | 2026-07-18 |
+| [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) | A maintained, feature-rich and performance oriented, neofetch like system information tool. | C | 23.8k | 2026-07-19 |
 | [wasmerio/wasmer](https://github.com/wasmerio/wasmer) | 🚀 Fast, secure, lightweight containers based on WebAssembly | Rust | 20.9k | 2026-07-18 |
-| [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. | C++ | 16.4k | 2026-07-18 |
-| [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. | Python | 15.5k | 2026-07-18 |
-| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | C | 11.9k | 2026-07-18 |
+| [Snapchat/Valdi](https://github.com/Snapchat/Valdi) | Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. | C++ | 16.4k | 2026-07-19 |
+| [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) | Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup. | Python | 15.5k | 2026-07-19 |
+| [lz4/lz4](https://github.com/lz4/lz4) | Extremely Fast Compression algorithm | C | 11.9k | 2026-07-19 |
 | [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 | C# | 10.2k | 2026-07-18 |
 | [rime/weasel](https://github.com/rime/weasel) | 【小狼毫】Rime for Windows | C++ | 7.6k | 2026-07-18 |
 | [modoboa/modoboa](https://github.com/modoboa/modoboa) | Mail hosting made simple | Python | 3.5k | 2026-07-17 |
@@ -1018,7 +1021,7 @@
 | [tumashu/pyim](https://github.com/tumashu/pyim) | 一个 emacs 中文输入法，支持全拼，双拼，五笔，仓颉和Rime，pyim 是 GNU elpa 包。 | Emacs Lisp | 917 | 2026-07-14 |
 | [cddqssc/Caption-Trans](https://github.com/cddqssc/Caption-Trans) | A one-stop video subtitle translation tool | Dart | 846 | 2026-07-18 |
 | [ivangabriele/clamav-desktop](https://github.com/ivangabriele/clamav-desktop) | Cross-platform Desktop GUI for ClamAV antivirus. | Rust | 474 | 2026-07-15 |
-| [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) | A lightweight utility that makes the Windows Start Menu translucent/transparent. | C++ | 326 | 2026-07-17 |
+| [rounk-ctrl/TranslucentSM](https://github.com/rounk-ctrl/TranslucentSM) | A lightweight utility that makes the Windows Start Menu translucent/transparent. | C++ | 327 | 2026-07-18 |
 | [modoboa/modoboa-installer](https://github.com/modoboa/modoboa-installer) | An installer for Modoboa | Python | 314 | 2026-06-22 |
 | [HydraDragonAntivirus/HydraDragonAntivirus](https://github.com/HydraDragonAntivirus/HydraDragonAntivirus) | Dynamic and static analysis with Real Time Malware Analysis with Antivirus for Windows, including open-source XDR (3 EDR projects), ClamAV, YARA-X, machine learning AI, behavioral analysis, Unpacker, Deobfuscator, Decompiler, website signatures, Ghidra, Suricata, Sigma, Kernel, Hypervisior based protection and much more than you can imagine. | C++ | 214 | 2026-07-16 |
 | [0ran/HopeMafei](https://github.com/0ran/HopeMafei) | 分享一些公开资源 | JavaScript | 56 | 2026-06-25 |
